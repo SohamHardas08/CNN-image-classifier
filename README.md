@@ -29,7 +29,7 @@ Output layer:
 
 Used cudatoolkit to boost the training time, GPU: Nvidia GTX 1650 (mobile) (6hrs with CPU, 30minutes with GPU)
 
-### Without regularisation the validation loss and traninig loss:
+### Without regularisation the validation loss and training loss:
 
 ![](https://github.com/user-attachments/assets/6c1983e1-7320-4b1e-a7aa-a245670baa60)
 
