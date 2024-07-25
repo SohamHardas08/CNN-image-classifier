@@ -30,13 +30,27 @@ Output layer:
 Used cudatoolkit to boost the training time, GPU: Nvidia GTX 1650 (mobile) (6hrs with CPU, 30minutes with GPU)
 
 
+Without regularisation the validation loss and traninig loss:
 
-
-![Validation loss and training loss without L2 regularisation](https://github.com/user-attachments/assets/6c1983e1-7320-4b1e-a7aa-a245670baa60)
+![](https://github.com/user-attachments/assets/6c1983e1-7320-4b1e-a7aa-a245670baa60)
 
 After L2 regularisation and early stopping callback:
 
+
+![Screenshot 2024-07-25 195816](https://github.com/user-attachments/assets/dfc85c0d-ead2-4157-a5ff-f05ce20db154)
+
+
+
+Confusion Matrix:
+
 ![image](https://github.com/user-attachments/assets/51c9ea43-e939-47db-a673-a7edc7b0ddf3)
+
+Evalutation Metrics
+-Precision : 0.85383
+-Accuracy : 0.8820
+-Recall : 0.87809
+
+
 
 
 
