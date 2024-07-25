@@ -1,6 +1,6 @@
 # CNN-image-classifier
 
-This project is a Convolutional Neural Network (CNN) based classifier designed to distinguish between organic and recyclable waste.
+This project is a Convolutional Neural Network (CNN) based binary classifier designed to distinguish between organic and recyclable waste.
 Info about the dataset and credits : https://www.kaggle.com/datasets/techsash/waste-classification-data
 
 ## Key Features
