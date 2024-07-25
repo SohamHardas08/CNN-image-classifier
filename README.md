@@ -30,9 +30,9 @@ Output layer:
 Used cudatoolkit to boost the training time, GPU: Nvidia GTX 1650 (mobile) (6hrs with CPU, 30minutes with GPU)
 
 
-Validation loss and training loss without L2 regularisation:
 
-![Screenshot 2024-07-23 134622](https://github.com/user-attachments/assets/6c1983e1-7320-4b1e-a7aa-a245670baa60)
+
+![Validation loss and training loss without L2 regularisation](https://github.com/user-attachments/assets/6c1983e1-7320-4b1e-a7aa-a245670baa60)
 
 After L2 regularisation and early stopping callback:
 
