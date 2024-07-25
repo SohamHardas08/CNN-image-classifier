@@ -46,9 +46,9 @@ Confusion Matrix:
 ![image](https://github.com/user-attachments/assets/51c9ea43-e939-47db-a673-a7edc7b0ddf3)
 
 Evalutation Metrics
--Precision : 0.85383
--Accuracy : 0.8820
--Recall : 0.87809
+- Precision : 0.85383
+- Accuracy : 0.8820
+- Recall : 0.87809
 
 
 
